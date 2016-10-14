@@ -1,0 +1,173 @@
+#logo {
+	width: : 170px;
+	height: 108px;
+	display: block;
+	margin-bottom: 10px;
+}
+
+#sidebar{
+	background-color: #d3d3d3;
+	height: 100%;
+	padding: 5px;
+}
+
+#sidebarbtn{
+	border-radius: 0px;
+	color: #000000;
+}
+
+#nogameselect_sidebar{
+	background-color: #d3d3d3;
+	height: 100%;
+	padding: 5px;
+}
+
+#contents_nogameselect{
+	padding-left: 15px;
+	height: 100%;
+}
+
+#contents{
+	padding-left: 15px;
+}
+
+div {
+	padding: 0px;
+}
+
+p {
+	color: black;
+}
+
+.boxartSize {
+	width: 170px;
+	height: 170px;
+}
+
+#gamepic1 {
+	width: 170px;
+	height: 170px;
+	margin-bottom: 5px;
+}
+
+.bottomaligned {
+	margin-top: 50px;
+}
+
+#navibar {
+	border-radius: 0px;
+	margin-bottom: 10px;
+}
+
+.sbbuttons {
+	width: 170px;
+	height: 25px;
+}
+
+#gameList {
+	width: 920px;
+}
+
+.mainbody {
+	background-color: #d3d3d3;;
+	padding: 15px;
+}
+
+.Gametitle {
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+hr {
+	margin: 5px
+	border-style: inset;
+}
+
+figure {
+	background-color: #ffffff;
+	margin: 3px;
+	padding: 6px;
+	border: 1px solid gray;
+	border-radius: 5px;
+	display: inline-block;
+}
+
+figcaption {
+	width: 170px;
+	font-size: 10px;
+	text-align: center;
+}
+
+.info-table {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+tbody, td {
+	background-color: #ffffff;
+	border: 1px solid gray;
+	font-size: 10px;
+	padding: 5px;
+}
+
+li, ul {
+	list-style: none;
+	text-align: left;
+	padding-left: 0px;
+	padding-bottom: 0px;
+}
+
+.info-text {
+	width: 500px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.walks {
+	margin-bottom: 10px;
+}
+
+.click2read {
+	border-radius: 0;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.gameSS {
+	display: inline-block;
+}
+
+.gameSScaption {
+	font-size: 12px;
+	text-align: left;
+	margin-top: 5px;
+}
+
+.walkthrough-content {
+	display: inline-block;
+}
+
+a{
+	text-decoration: none;
+	color: #000000;
+}
+
+/*Game Select*/
+.gameList {
+	width: 100%;
+	border: 1px solid #d4d4d4;
+	margin: 5px;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+#gameImageselect {
+	float: left;
+	width: 150px;
+	height: 150px;
+}
+
+.titlee{
+	float: left;
+	margin-left: 10px;
+}
